@@ -2,4 +2,12 @@
     <string name="app_name">AlertDialog</string>
     <string name="show_alert">Show Alert</string>
     <string name="show_full_screen_alert">Show Full Screen Alert</string>
+    <string name="conversation_with_relatives">Conversation with RELATIVES</string>
+    <string name="shashi_are_you_thinking_of_following_your_passion">Shashi, are you thinking of following your passion?</string>
+    <string name="yes">Yes</string>
+    <string name="later">Later</string>
+    <string name="no">No</string>
+    <string name="show_custom_alert">Show Custom Alert</string>
+    <string name="alert_dialog_tutorial">Alert Dialog Tutorial</string>
+    <string name="tutorial_by_shashi">Tutorial by Shashi Kant</string>
 </resources>
