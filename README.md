@@ -15,7 +15,7 @@ In this project I tried to demonstrate Alert Dialogs and Custom Alert Dialogs in
 
 ## Links
 
-- [**Link to Article**](https://github.com/shashi-kant10/demoalertdialog)
+- [**Link to Article**](https://link.medium.com/z5BJv7pptdb)
 
 - [**Documentation**](https://developer.android.com/reference/android/app/AlertDialog.Builder)
 
